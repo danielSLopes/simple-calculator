@@ -2,7 +2,7 @@
 
 Projeto simples de calculadora utilizando React.
 
-![Screenshot](imagem-calculator.png)
+![Screenshot](https://imgur.com/oEFu1DP)
 
 # Getting Started with Create React App
 
