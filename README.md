@@ -2,6 +2,7 @@
 
 Projeto simples de calculadora utilizando React.
 
+![Screenshot](https://i.imgur.com/oEFu1DP.png)
 
 # Getting Started with Create React App
 
